@@ -1,5 +1,5 @@
-
 So_Long - Naruto Edition 🍜🌀
+
 Welcome to the ultimate ramen quest! In this Naruto-inspired version of the So_Long project, our favorite ninja, Naruto Uzumaki, is on a mission to collect coins and satisfy his never-ending hunger for ramen at Ichiraku Ramen—the only place worthy of his cravings. Get ready to code, laugh, and believe it!
 
 🌀 Why So_Long?
