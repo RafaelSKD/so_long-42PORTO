@@ -3,6 +3,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/laHWBO7.gif" alt="Demonstração">
+</p>
 
 
 **Welcome to the ultimate ramen quest!**  
